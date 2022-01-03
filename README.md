@@ -16,7 +16,7 @@ chmod +x /backup/Database_Backup.sh
 Now schedule the script in crontab to run on a daily basis and complete backup on regular basis. Edit crontab on your system with `crontab -e` command. Add following settings to enable backup at 2 in the morning.
 
 ```bash
-0 2 * * * root /backup/Database_Backup.sh
+0 2 * * * /backup/Database_Backup.sh
 ```
 
 Save your crontab file. After enabling cron, the script will take backup automatically, But keep check backups on a weekly or monthly basis to make sure.
