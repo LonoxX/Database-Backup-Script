@@ -41,6 +41,7 @@ Start the files and you're done ;)
 
 7. Settings: In the "Settings" you can set security options so that the execution of the task can be canceled in the event of an error.
 
-#### © 2021 Panda-Network
+#### © 2019 - 2023 Panda-Network
+
 > Webseite: [Panda-Network.de](https://panda-network.de) \
 > Support [Discord-Server](https://discord.gg/z8ScRvf)
